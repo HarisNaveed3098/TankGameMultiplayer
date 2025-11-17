@@ -1,0 +1,7 @@
+W -> Up
+S -> Down
+A -> left
+D -> Right
+Mouse -> Barrel
+Space -> Fire
+ESC -> Exit
